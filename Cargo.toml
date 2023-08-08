@@ -2,6 +2,9 @@
 name = "pitusyastd"
 version = "0.0.1"
 edition = "2021"
+license = "MIT"
+description = "Standard library for the Pitusya Programming Language"
+repository = "https://github.com/Jujumba/pitusyastd"
 
 [lib]
 crate-type = ["rlib", "dylib"]
